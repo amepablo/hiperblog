@@ -1,2 +1,4 @@
 # hiperblog
-hiperblog de Platzi
+##hiperblog de Platzi
+
+modifique el readme hasta acá
